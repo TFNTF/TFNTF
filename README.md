@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFNTF)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TFNTF.visitor-badge.issue.1&left_color=green&right_color=red)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TFNTF)
+![visitors](https://komarev.com/ghpvc/?username=TFNTF)
+
