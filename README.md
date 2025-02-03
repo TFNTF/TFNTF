@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Feng Tian.👋
 
 <!--
 **TFNTF/TFNTF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFNTF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TFNTF)
+![trophy](https://github-profile-trophy.vercel.app/?username=TFNTF)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TFNTF&left_color=green&right_color=red)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TFNTF)
